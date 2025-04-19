@@ -7,9 +7,9 @@ O sistema calcula tudo automaticamente, começando pelas notas maiores e depois 
 
 __Como funciona:__
 
-    - Você digita o valor que quer sacar.
-    - O programa calcula e separa as notas da melhor forma.
-    - Ele te mostra exatamente quantas cédulas de cada valor você vai receber.
+    1- Você digita o valor que quer sacar.
+    2- O programa calcula e separa as notas da melhor forma.
+    3- Ele te mostra exatamente quantas cédulas de cada valor você vai receber.
 
 
 

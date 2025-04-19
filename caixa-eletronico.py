@@ -1,7 +1,7 @@
 print("-------------------------------")
 print("CAIXA ELETRÔNICO")
 print("-------------------------------")
-print("Notas Disponíveis: R$ 1, R $2, R$ 5,R$ 10,R$ 20, R$ 50, R$ 100")
+print("Notas Disponíveis: R$ 1, R $2, R$ 5, R$ 10,R$ 20, R$ 50, R$ 100")
 print("                                                                ")
 saldo = int(input("Digite o valor que deseja sacar: R$"))
 print("                                                                ")
